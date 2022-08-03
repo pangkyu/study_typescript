@@ -1,5 +1,2 @@
-function add(a : number, b:number){
-    return a + b;
-}
-const sum: number = add(1,2);
-console.log(sum);
+let 이름 : string = 'kim';
+이름 = '123';
