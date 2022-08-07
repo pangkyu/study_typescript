@@ -13,4 +13,4 @@
 
 ### md
 
-- (타입지정)[md/README.md]
+- (타입지정)[md/setType/README.md]
