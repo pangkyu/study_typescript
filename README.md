@@ -13,4 +13,5 @@
 
 ### md
 
-- (타입지정)[md/setType/README.md]
+- [타입지정](md/setType/setType.md)
+- [함수](md/func/func.md)
