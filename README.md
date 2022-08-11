@@ -15,3 +15,4 @@
 
 - [타입지정](md/setType/setType.md)
 - [함수](md/func/func.md)
+- [리터럴](md/literal/literal.md)
