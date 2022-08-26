@@ -16,3 +16,5 @@
 - [타입지정](md/setType/setType.md)
 - [함수](md/func/func.md)
 - [리터럴](md/literal/literal.md)
+- [유니언](md/union/union.md)
+- [클래스](md/classes/classes.md)
