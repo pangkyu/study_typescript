@@ -18,3 +18,4 @@
 - [리터럴](md/literal/literal.md)
 - [유니언](md/union/union.md)
 - [클래스](md/classes/classes.md)
+- [열거형](md/enums/enums.md)
