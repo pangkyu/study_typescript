@@ -24,7 +24,9 @@
 - git diff -> commit 이나 branch 사이 다른점 혹은 파일이나 레포지토리와 워킹 디렉토리 사이의 다른점을 보여주는 명령어
   - git diff : working directory와 staging area 사이의 차이 확인
   - git diff HEAD : working directory head commit에 대한 change 확인
-- git commit :
+- git commit : 커밋
+  - git commit -am 'third commit' : third commit이라는 메시지를 커밋(add포함)
+- git log : 커밋된 로그들을 보여준다
 
 ### workflow
 
