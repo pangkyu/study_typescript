@@ -27,6 +27,15 @@
 - git commit : 커밋
   - git commit -am 'third commit' : third commit이라는 메시지를 커밋(add포함)
 - git log : 커밋된 로그들을 보여준다
+- git push <저장소명> <브랜치명>
+  - git remote를 통해 저장소명의 이름 확인 가능
+- git fetch : 소스를 가져올 뿐 merge하지는 않음
+  - 로컬디렉토리로 변경한 내용을 가져오지 않고 변경한 내역들만 확인
+- git pull : 원격 저장소의 소스를 가져오고 해당 소스가 현재 내 소스보다 더 최신 버전이라면 지금의 버전을 해당 소스에 맞춰 올림(merge)
+- git clone <리모트 저장소 주소> : 원격 저장소에 있는 프로젝트를 가져오는 역할
+  - master 브런치를 자동으로 가져오며 origin으로 remote도 add함. git init 명령어로 깃 프로젝트가 아닌 곳에서도 사용할 수 있음
+- git checkout <브랜치명> : 내가 사용할 브랜치로 이동
+  - -b 옵션을 넣으면 브랜치 작성과 체크아웃을 한꺼번에 실행
 
 ### workflow
 
