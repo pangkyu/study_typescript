@@ -1,4 +1,4 @@
-# 타입스크립트 공부
+# 타입스크립트 공부 + git
 
 - npm install -g typescript
 - tsc -w (js변환 : 타입스크립트만으로는 동작이 되지 않아서 js로 변환해줘야함)
@@ -19,3 +19,7 @@
 - [유니언](md/union/union.md)
 - [클래스](md/classes/classes.md)
 - [열거형](md/enums/enums.md)
+
+### git md
+
+- [Git](md/git/git.md)
