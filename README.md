@@ -19,6 +19,7 @@
 - [유니언](md/union/union.md)
 - [클래스](md/classes/classes.md)
 - [열거형](md/enums/enums.md)
+- [제네릭](md/generics/generics.md)
 
 ### git md
 
