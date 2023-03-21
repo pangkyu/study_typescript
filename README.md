@@ -20,6 +20,7 @@
 - [클래스](md/classes/classes.md)
 - [열거형](md/enums/enums.md)
 - [제네릭](md/generics/generics.md)
+- [고급타입](md/higher/higher.md)
 
 ### git md
 

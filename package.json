@@ -1,0 +1,12 @@
+{
+  "name": "study_typescript",
+  "version": "1.0.0",
+  "description": "- npm install -g typescript\r - tsc -w (js변환 : 타입스크립트만으로는 동작이 되지 않아서 js로 변환해줘야함)\r - tsconfig.json 필요",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
